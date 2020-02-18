@@ -1,0 +1,38 @@
+i {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  padding: 3px;
+  display: none;
+}
+.NameUp {
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+}
+
+.NameDown {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+.ModelUp{
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+}
+
+.ModelDown {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+
+.YearUp{
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+}
+
+.YearDown {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+
+#sort{
+  width:"50%";
+}
